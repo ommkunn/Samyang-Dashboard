@@ -4,6 +4,8 @@
 
 This project is developed strictly for academic and learning purposes.  
 All data used is dummy FMCG data, and the Samyang brand name is referenced only for analytical context and practice.
+
+
 ---
 
 ## **Samyang FMCG Supply Chain & Retail Analytics Dashboard**
