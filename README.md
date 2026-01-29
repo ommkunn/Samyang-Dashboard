@@ -80,7 +80,26 @@ The objective of this dashboard is to provide an analytical tool that:
 
 ### Walkthrough of Key Visuals
 
-#### Page 1: Retail and Market Demand Analysis
+#### Page 1: Supply Chain and Warehouse Performance
+
+- **Demand–Supply Gap Analysis**
+  - Waterfall chart showing zone-wise contribution to overall demand–supply imbalance
+
+- **Top 10 Under-Supplied Warehouses**
+  - Identification of warehouses with critical supply shortages
+
+- **Top 10 Over-Supplied Warehouses**
+  - Warehouses holding excess inventory, indicating potential cost inefficiencies
+
+- **Distance vs Supply Efficiency**
+  - Scatter plot analyzing the relationship between distance from hub and supply levels
+
+- **Average Risk Score**
+  - Gauge chart representing overall operational risk across warehouses
+
+---
+
+#### Page 2: Retail and Market Demand Analysis
 
 - **Key Performance Indicators**
   - Total Warehouses  
@@ -102,25 +121,6 @@ The objective of this dashboard is to provide an analytical tool that:
 
 - **Demand per Distributor**
   - Line chart analyzing how distributor count affects retail density
-
----
-
-#### Page 2: Supply Chain and Warehouse Performance
-
-- **Demand–Supply Gap Analysis**
-  - Waterfall chart showing zone-wise contribution to overall demand–supply imbalance
-
-- **Top 10 Under-Supplied Warehouses**
-  - Identification of warehouses with critical supply shortages
-
-- **Top 10 Over-Supplied Warehouses**
-  - Warehouses holding excess inventory, indicating potential cost inefficiencies
-
-- **Distance vs Supply Efficiency**
-  - Scatter plot analyzing the relationship between distance from hub and supply levels
-
-- **Average Risk Score**
-  - Gauge chart representing overall operational risk across warehouses
 
 ---
 
