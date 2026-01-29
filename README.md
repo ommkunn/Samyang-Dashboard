@@ -97,6 +97,8 @@ The objective of this dashboard is to provide an analytical tool that:
 - **Average Risk Score**
   - Gauge chart representing overall operational risk across warehouses
 
+https://github.com/ommkunn/Samyang-Dashboard/blob/main/Samyand%20DB%20Page%201.png
+
 ---
 
 #### Page 2: Retail and Market Demand Analysis
@@ -121,6 +123,8 @@ The objective of this dashboard is to provide an analytical tool that:
 
 - **Demand per Distributor**
   - Line chart analyzing how distributor count affects retail density
+
+https://github.com/ommkunn/Samyang-Dashboard/blob/main/Samyang%20DB%20Page%202.png
 
 ---
 
